@@ -1,2 +1,3 @@
 display table item using map in react.js
-![Screenshot (3556)](https://github.com/aarthi2927/react-table/assets/131766048/fad4d387-85b1-4d5c-8b95-84637155450f)
+
+![Screenshot (3557)](https://github.com/aarthi2927/react-table/assets/131766048/7a07d3c1-a60c-4d3d-a40c-3ef14cd4189f)
